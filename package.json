@@ -1,0 +1,26 @@
+{
+  "name": "babel-6-example",
+  "version": "1.0.0",
+  "description": "Example showing how to set up Babel 6 in WebStorm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gwmccull/babel-6-example.git"
+  },
+  "keywords": [
+    "Babel 6",
+    "WebStorm"
+  ],
+  "author": "Garrett McCullough",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gwmccull/babel-6-example/issues"
+  },
+  "homepage": "https://github.com/gwmccull/babel-6-example#readme",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.3.13"
+  }
+}

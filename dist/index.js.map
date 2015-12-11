@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/index.js"],"names":[],"mappings":";;AAAA,IAAI,IAAI,GAAG,SAAP,IAAI,GAAS;AACb,WAAO,CAAC,GAAG,CAAC,MAAM,CAAC,CAAC;CACvB,CAAC","file":"index.js","sourcesContent":["let test = () => {\n    console.log(\"test\");\n};"]}
