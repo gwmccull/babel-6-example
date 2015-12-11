@@ -3,4 +3,4 @@ This project was created as a code sample for a blog post that I wrote on how to
 value here is in `.babelrc` and in seeing the example directory structure.
 
 The full blog post may be found at:  
-
+http://mcculloughwebservices.com/2015/12/10/webstorm-babel-6-plugin/
